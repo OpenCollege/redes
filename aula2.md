@@ -16,10 +16,11 @@ Enlace e física: Placa de rede
 Aplicação, transporte e rede: Sistema Operacional  
 
 ## Física
-Adequação dos dados em sinais e realiza transmissão
+Transforma dados em sinais e realiza transmissão
+Implementada na placa de rede
 
 ## Enlace
-Enquadramento, controle de integridade, controle de fluxo, acesso ao meio, controle de erros
+Enquadramento, controle de fluxo, acesso ao meio, controle de erros (serve para verificar integridade)
 
 PROTOCOLOS
 - LAN: Protocolo Ethernet
@@ -31,23 +32,26 @@ Responsável pelo roteamento
 
 PROTOCOLOS
 - IP
-- ICMO
+- ICMP
 
 ## Transporte
-- `Multiplexação`: Divide os dados em pacotes menores
+- `Multiplexação dos dados`: Divide os dados em pacotes menores
 - `Endereçamento de aplicações`
 - `Confiabilidade`: Verifica se houve perda de pacotes na Rede
 Verifica se recebeu pacotes duplicados
 - `Controle de fluxo`
 - `Controle de congestionamento`
 
-PROTOCOLOS:
-- TCP: Mais confiável
-- UDP: Mais rápido
+PROTOCOLOS
+
+- `TCP`: Mais confiável
+- `UDP`: Mais rápido
 Dados que são armazenados (ex: Vídeos da internet), geralmente se usa TCP, pois é importante a qualidade.
 Dados que não são armazenados (ex: Video-chamadas, jogos), geralmente se usa UDP
 
 ## Aplicação
+Realiza a comunicação entre processo cliente e processo servidor
+> Não existe servidor, é processo servidor e processo cliente
 
 PROTOCOLOS
 - FTP
@@ -56,7 +60,3 @@ PROTOCOLOS
 - DNS
 - IMAP
 - POP
-
-*'Não existe servidor, é processo servidor e processo cliente'*
-
-# Transmissões 

@@ -25,9 +25,9 @@ Bits por segundo
 - Controle de pacote ( Controle de colisão )
 
 Exemplos
-- Rede local com Hub
+- Rede local com Hub ( LAN )
 - T de uma tomada elétrica
-- Rede local wireless (todos disputam o mesmo meio)
+- Rede local wireless ( WLAN ) (todos disputam o mesmo meio)
 
 
 ### Ponto a ponto
@@ -45,17 +45,17 @@ Exemplos
 - Redes WAN ( Internet )
 
 ## Canais
-- `Simplex` Um cabo não consegue transmitir ida e volta, one way only.
-- `Half Duplex` Uma transmissão por vez na rede , ida e volta
+- `Simplex` Utiliza dois cabos. Um cabo não consegue transmitir ida e volta, apenas transmite em um sentido
+- `Half Duplex` Transmite ambos os lados (ida e volta) mas não é simultaneao, há uma transmissão por vez
 - `Full Duplex` Há a transmissão dos dois lados simultaneamente
 
 ### Backbone
 Estrutura principal de uma rede
 
 # Escala da Rede
-- LAN ( Local area network ) - Switches & hubs
-- MAN ( Metropolitan area network )
-- WAN ( Wide area network ) - Pontos são conectados com roteadores
+- LAN ( Local area network ) - Switches & hubs - Alcance máximo alguns KMs dentro de um mesmo terreno
+- MAN ( Metropolitan area network ) - Utiliza tecnologia lan - Alcance de vários KMs
+- WAN ( Wide area network ) - Pontos são conectados com roteadores - Alcance mundial
 
 Sem Fio ( Wireless )
 - WPAN ( personal )
@@ -64,7 +64,7 @@ Sem Fio ( Wireless )
 - WWAN
 
 # Software
-Software -> Arquitetura de rede
+Software -> Formado por arquiteturas de rede
 
 ### `OSI`
 Open System Interconnection: Primeiro padrão desenvolvido que possibilita que qualquer computador de qualquer fabricante possa se conectar a rede.  
