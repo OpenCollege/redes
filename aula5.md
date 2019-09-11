@@ -1,4 +1,4 @@
-![rede](assets/aula5-556b7.png)
+![rede](assets/aula5-fadf5.png)
 
 # Eletricidade
 - Taxa de fluxo medida em **ampère** = 1 coulomb = 6.25 bilhões de bilhões de elétrons
@@ -19,4 +19,4 @@
 
 # Fibra ótica
 - Uma para transmissão uma para recepção.
-- Full duplex 
+- Full duplex
