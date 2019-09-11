@@ -57,6 +57,10 @@ Ex: ADSL - Assimetric, downstream channel is bigger ( 1 de voz, 1 downstream, 1 
 
 Ex: Rede Local
 
+## Por tamanho da onda de luz (WDM)
+Separa pelo comprimento de onda (cor). Utilizado na fibra ótica.
+
+
 # Comutação
 
 Definir a reserva de recursos na rede na hora da transmissão dos dados.
