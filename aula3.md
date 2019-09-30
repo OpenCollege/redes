@@ -23,7 +23,7 @@ amplitude x Sen ( 2 pi x freq x t )
 - Quanto menor o comprimento da onda, mais ela sofre atenuação ao atravessar obstáculos.
 
 ## Equipamentos
-- No sinal analógico, o equipamento é o `amplificador`. Quanto há uma interferência, muda o formato da onda, e os picos vão aumentar ou diminuir. Vai alterar a amplitude em certos momentos.
+- No sinal analógico, o equipamento é o `amplificador`. Quanto há uma interferência, muda o formato da onda, e os picos vão aumentar ou diminuir. Vai alterar a amplitude em certos momentos. Se tiver ruídos, vai aumentar os ruídos.
 - No sinal digital, o equipamento é o `repetidor`. Ele sabe as amplitudes que o sinal tem, e quando há um ruído, ele consegue corrigir os erros de amplitude.
 
 ## Distorção
