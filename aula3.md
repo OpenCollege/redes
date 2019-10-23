@@ -5,7 +5,7 @@
 Principais características:
 
 - Frequência | Hz ( Quantas vezes se repete em um segundo )
-- Amplitude
+- Amplitude ( O quanto se distancia verticalmente do 0 )
 - Fase da onda ( Defasagem em relação a começar do 0 )
 
 Atenuação do sinal: O sinal enfraquece conforme a distância aumenta

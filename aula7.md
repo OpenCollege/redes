@@ -3,7 +3,6 @@
 O ADSL é assimétrico, e seu foco é domestico, pois o consumidor doméstico faz mais downloads do que uploads.
 
 ## Principais tipos de serviços
-
 - Acesso a Internet
   - xDSL
   - Cabo
