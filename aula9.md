@@ -10,6 +10,7 @@ Flag de início e final servem para fazer o enquadramento.
 Os bits 01111110 são utilizados para fazer a Flag de início e final de quadro. Nos dados toda vez que tem 5 bits 1 seguido se adiciona um bit 0 depois, então quando se encontra 6 bits 1 seguidos significa que é o Flag de inicio ou final de enquadramento.
 - Muito utilizado nos links privativos
 - Orientado a conexão
+
 #### Estrutura:
 ![rede](assets/aula9-bcf73.png)
 - 9 bits Flag de início
@@ -18,6 +19,7 @@ Os bits 01111110 são utilizados para fazer a Flag de início e final de quadro.
 - n bits de Informações de dados do usuário: IP+TCP+FTP+Arquivo
 - 16 bits FCS
 - 8 bits Flag de final
+
 #### Quadro de controle:
 ![rede](assets/aula9-9a1f2.png)
 

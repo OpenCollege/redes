@@ -39,4 +39,4 @@ Mais de uma das anteriores ao mesmo tempo.
 ## Formas de acesso ao meio
 
 ## CSMA / CD
-- Não é utilizado em full-duplex 
+- Não é utilizado em full-duplex
